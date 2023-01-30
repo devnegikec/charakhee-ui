@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/"
-  to = "https://medusa-production-f254.up.railway.app/"
+  from = "/store"
+  to = "https://medusa-production-f254.up.railway.app/store"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
